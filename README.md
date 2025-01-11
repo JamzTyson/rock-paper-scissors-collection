@@ -1,5 +1,7 @@
 # rock-paper-scissors-collection
 
+![Rock Paper Scissors image](https://raw.githubusercontent.com/JamzTyson/Rock_Scissors_Paper/main/assets/rsp.png)
+
 A collection of "Rock Scissors Paper" game implementations  written in Python.
 
 This collection includes minimalist designs, modular frameworks, and
