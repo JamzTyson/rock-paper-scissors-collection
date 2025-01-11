@@ -36,7 +36,7 @@ simplicity.
 
 **Key Features:**
 
-- Minimal codebase (~50 lines).
+- Minimal codebase (~20 lines).
 - Tracks player and computer scores.
 - Case-insensitive input handling.
 - Designed for quick learning and experimentation.
