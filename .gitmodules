@@ -1,13 +1,12 @@
-[submodule "tiny"]
-	path = tiny
-	url = git@github-jamztyson:JamzTyson/Rock_Scissors_Paper_tiny.git
-[submodule "small"]
-	path = small
-	url = git@github-jamztyson:JamzTyson/Rock_Scissors_Paper_minimal.git
-[submodule "yagni"]
-	path = yagni
+[submodule "Rock_Scissors_Paper_Framework"]
+	path = Rock_Scissors_Paper_Framework
+	url = git@github.com:JamzTyson/Rock_Scissors_Paper_Framework.git
+[submodule "Rock_Scissors_Paper_YAGNI"]
+	path = Rock_Scissors_Paper_YAGNI
 	url = git@github-jamztyson:JamzTyson/Rock_Scissors_Paper_YAGNI.git
-[submodule "framework"]
-	path = framework
-	url = git@github-jamztyson:JamzTyson/Rock_Scissors_Paper_Framework.git
-
+[submodule "Rock_Scissors_Paper_minimal"]
+	path = Rock_Scissors_Paper_minimal
+	url = git@github-jamztyson:JamzTyson/Rock_Scissors_Paper_minimal.git
+[submodule "Rock_Scissors_Paper_tiny"]
+	path = Rock_Scissors_Paper_tiny
+	url = git@github-jamztyson:JamzTyson/Rock_Scissors_Paper_tiny.git
