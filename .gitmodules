@@ -3,10 +3,10 @@
 	url = git@github.com:JamzTyson/Rock_Scissors_Paper_Framework.git
 [submodule "Rock_Scissors_Paper_YAGNI"]
 	path = Rock_Scissors_Paper_YAGNI
-	url = git@github-jamztyson:JamzTyson/Rock_Scissors_Paper_YAGNI.git
+	url = git@github.com:JamzTyson/Rock_Scissors_Paper_YAGNI.git
 [submodule "Rock_Scissors_Paper_minimal"]
 	path = Rock_Scissors_Paper_minimal
-	url = git@github-jamztyson:JamzTyson/Rock_Scissors_Paper_minimal.git
+	url = git@github.com:JamzTyson/Rock_Scissors_Paper_minimal.git
 [submodule "Rock_Scissors_Paper_tiny"]
 	path = Rock_Scissors_Paper_tiny
-	url = git@github-jamztyson:JamzTyson/Rock_Scissors_Paper_tiny.git
+	url = git@github.com:JamzTyson/Rock_Scissors_Paper_tiny.git
